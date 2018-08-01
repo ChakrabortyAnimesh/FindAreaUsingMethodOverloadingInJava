@@ -8,6 +8,6 @@ public class Area {
         return (Math.PI*radius*radius);
     }
     public int area(int lentght){
-        return lentght*lentght;
+        return (lentght*lentght);
     }
 }
