@@ -1,6 +1,7 @@
 package com.company.java;
 
 public class Area {
+    //The area method is called overloaded method
     public double area(double length,double height){
         return (length*height);
     }
